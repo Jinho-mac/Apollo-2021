@@ -1,3 +1,3 @@
-# Apollo 2020
+# Apollo 2021
 
-react with apollo and graphQL 😉
+React with Apollo and GraphQL 😉
